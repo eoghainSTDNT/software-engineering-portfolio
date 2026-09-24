@@ -74,3 +74,10 @@ Research Lab
 
             Link: https://ethicsunwrapped.utexas.edu/case-study/therac-25
 
+    Task 4: Is There Still a SOftware Crisis?
+
+            one extra fact that i found is that the 1968 NATO conference had more than 50 participants from 11 different countriesf problems with reliability, cost, schedules and metting specifications. 
+
+            Link: https://grokipedia.com/page/nato_software_engineering_conferences
+
+            i do think a version of the software crisis still exists today, software is alot more advanced than it was in the 60s, but large projects are still difficult to get right first go. The therac-25 is a good example because problems in the software and testing led to pateients receivng dangerous radiation overdoses. This shows that software can still have serious consequences when it is not properly designed, tested and managed.

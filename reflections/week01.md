@@ -68,3 +68,9 @@ Research Lab
 
     Task 3: Researching a Different Software Failure
 
+        Therac-25
+
+            The therac-25 was a radiation therapy machine used for treating cancer patients, between 1985 and 1987, 6 accidents hhappned in the US and Canda where patients recieved huge radiation overdoses. Some patients got seriously imjured and some died. Investigations found problems with the software. One big issue was a timing problem, where two parts of the software could run in the wrong order. The machine also relied too much on software for safety amnd didnt have enough hardware safety features. there was also very limited softwaree testing and documentation. WHen problems were first reported, they wernt properly investigated, so the issues continued.
+
+            Link: https://ethicsunwrapped.utexas.edu/case-study/therac-25
+
